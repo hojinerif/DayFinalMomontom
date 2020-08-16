@@ -32,11 +32,11 @@ li {
   color: red
 }
 
-.font_30px{
+.font_20px{
   color: white;
   transition: color 0.5s ease-in-out;
   text-decoration: underline;
-  font-size:30px;
+  font-size:20px;
 }
 .btn {
   cursor:pointer;
